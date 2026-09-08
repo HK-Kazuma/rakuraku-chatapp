@@ -1,4 +1,4 @@
-Japanese follows English
+English follows Japanese
 # 楽楽新卒Chat
 新卒採用担当者がターゲット
 候補者一人ひとりに丁寧に向き合うためのワークフロー最適化アプリ
